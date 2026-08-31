@@ -1,0 +1,64 @@
+about:
+  description: The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
+  license: NOASSERTION
+  homepage: https://www.raspberrypi.com/software
+  head: 90c0aab
+  archived: false
+  latestVersion: v2.0.11.1
+  collectedAt: 2026-08-31T06:36:02Z
+timeline:
+  created: 2019-09-30
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-17
+popularity:
+  star: 2597
+  watcher: 55
+  fork: 443
+  release: 40
+  contributor: 90
+  pullRequest: 122
+  issue: 1220
+language:
+  C++: 2223858
+  QML: 623669
+  C: 195764
+  Shell: 176049
+  CMake: 137765
+  Objective-C++: 63763
+  Python: 9679
+  Makefile: 3640
+  Batchfile: 263
+totalLine: 3434450
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 19
+    openPR: 2
+    closedIssue: 17
+    openIssue: 6
+    commit: 46
+  last90d:
+    since: 2026-06-02
+    release: 4
+    mergedPR: 22
+    openPR: 6
+    closedIssue: 39
+    openIssue: 14
+    commit: 112
+  last180d:
+    since: 2026-03-04
+    release: 8
+    mergedPR: 44
+    openPR: 7
+    closedIssue: 82
+    openIssue: 43
+    commit: 275
+  last360d:
+    since: 2025-09-05
+    release: 18
+    mergedPR: 135
+    openPR: 10
+    closedIssue: 277
+    openIssue: 67
+    commit: 828
