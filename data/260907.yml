@@ -5,13 +5,13 @@ about:
   head: cf71bec
   archived: false
   latestVersion: "v2.0.11.1"
-  collectedAt: 2026-09-07T04:45:29Z
+  collectedAt: 2026-09-07T19:49:17Z
 timeline:
   created: 2019-09-30
   lastCommit: 2026-09-03
   lastRelease: 2026-08-17
 popularity:
-  star: 2600
+  star: 2601
   watcher: 55
   fork: 443
   release: 40
@@ -87,7 +87,7 @@ total:
   commit: 1956
 ---
 path: /home/runner/.x-repo/github.com/raspberrypi/rpi-imager
-collectedAt: 2026-09-07T04:45:35Z
+collectedAt: 2026-09-07T19:49:28Z
 loc:
   TypeScript:
     code: 86480
@@ -293,7 +293,7 @@ checks:
       - 'Warn: 0 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:45:36+00:00
+  collectedAt: 2026-09-07T19:49:29+00:00
   platform:
     darwin/arm64:
       name:  rpi-imager_2.0.11.1-1_arm64.buildinfo
