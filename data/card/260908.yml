@@ -5,7 +5,7 @@ about:
   head: cf71bec
   archived: false
   latestVersion: "v2.0.11.1"
-  collectedAt: 2026-09-08T01:48:08Z
+  collectedAt: 2026-09-08T04:44:04Z
 timeline:
   created: 2019-09-30
   lastCommit: 2026-09-03
@@ -87,7 +87,7 @@ total:
   commit: 1956
 ---
 path: /home/runner/.x-repo/github.com/raspberrypi/rpi-imager
-collectedAt: 2026-09-08T01:48:15Z
+collectedAt: 2026-09-08T04:44:14Z
 loc:
   TypeScript:
     code: 86480
