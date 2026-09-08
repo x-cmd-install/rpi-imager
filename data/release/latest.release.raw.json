@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22498400,
       "digest": "sha256:94ffded522f3e2a38bdb9505440229e1411b80992a616ba16b2d7e73bd794130",
-      "download_count": 5484,
+      "download_count": 5526,
       "created_at": "2026-08-17T17:02:40Z",
       "updated_at": "2026-08-17T17:02:43Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/imager-v2.0.11.1.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9759204,
       "digest": "sha256:e0b1877b8f380596e0deec37787b61ee378ee8e5b440d1d3135b38bf1a0f0b63",
-      "download_count": 1190,
+      "download_count": 1213,
       "created_at": "2026-08-17T17:02:58Z",
       "updated_at": "2026-08-17T17:02:59Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_amd64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9541772,
       "digest": "sha256:bb25d77543526e590a02a6723cab9da5b6f6e3affa7d65d1c7368b875facce09",
-      "download_count": 274,
+      "download_count": 278,
       "created_at": "2026-08-17T17:02:59Z",
       "updated_at": "2026-08-17T17:03:00Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_arm64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9142456,
       "digest": "sha256:4ae32fcba2d55fe89edc77cd1e01c88bbdff0da9302ea9d7c12882a6a7456b97",
-      "download_count": 200,
+      "download_count": 202,
       "created_at": "2026-08-17T17:03:00Z",
       "updated_at": "2026-08-17T17:03:02Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_armhf.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 16457036,
       "digest": "sha256:229b1101116a7e16e56a7dd58d5359675b0e7632f0d14d298901ecd572d4d8d3",
-      "download_count": 237,
+      "download_count": 239,
       "created_at": "2026-08-17T17:03:02Z",
       "updated_at": "2026-08-17T17:03:03Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-embedded_2.0.11.1-1_arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 51904566,
       "digest": "sha256:2b4c5324c5ff04aa3bfb216795ae9e01cb54400752727353e13fb21e66c528a9",
-      "download_count": 95369,
+      "download_count": 96316,
       "created_at": "2026-08-17T17:03:03Z",
       "updated_at": "2026-08-17T17:03:08Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-v2.0.11.1.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 40724,
       "digest": "sha256:992584491be64f6114ce8bbbc0680c725564de58d87a51311149f0c1032c291a",
-      "download_count": 268,
+      "download_count": 270,
       "created_at": "2026-08-17T17:02:56Z",
       "updated_at": "2026-08-17T17:02:56Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1.debian.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1148,
       "digest": "sha256:038d5204b5cf2a1e801662e36226c24411caa7deb17f91034bc20a718096158c",
-      "download_count": 211,
+      "download_count": 217,
       "created_at": "2026-08-17T17:02:56Z",
       "updated_at": "2026-08-17T17:02:57Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1.dsc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6753,
       "digest": "sha256:928ddcf1a4b51e5a837bd09c0708c6987a4d7767999b0414c3fe841e4a81c2a5",
-      "download_count": 215,
+      "download_count": 217,
       "created_at": "2026-08-17T17:02:43Z",
       "updated_at": "2026-08-17T17:02:43Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.buildinfo"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3014,
       "digest": "sha256:dbc2da0f7b5e179bf0fcd57e5fa8ed69a108c8dcbc7993c2084ec9f8e55cd07c",
-      "download_count": 220,
+      "download_count": 223,
       "created_at": "2026-08-17T17:02:43Z",
       "updated_at": "2026-08-17T17:02:44Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.changes"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 33403064,
       "digest": "sha256:b6de5abbcd37efe68a636bf5ba9d3a5812fc855f1b8ed449ccef33beef338376",
-      "download_count": 1162,
+      "download_count": 1168,
       "created_at": "2026-08-17T17:02:44Z",
       "updated_at": "2026-08-17T17:02:47Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 33477784,
       "digest": "sha256:816ac42e126263822a9ef644234dc81dbcf462f92c69a1b5e9774724dcd863ef",
-      "download_count": 593,
+      "download_count": 598,
       "created_at": "2026-08-17T17:02:48Z",
       "updated_at": "2026-08-17T17:02:51Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 31717104,
       "digest": "sha256:63e6d9527a39cdcc7669c0f1ceb5de286de9db9adbc9801a2f6689b8b97cbda5",
-      "download_count": 163,
+      "download_count": 164,
       "created_at": "2026-08-17T17:02:52Z",
       "updated_at": "2026-08-17T17:02:55Z",
       "browser_download_url": "https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.deb"
