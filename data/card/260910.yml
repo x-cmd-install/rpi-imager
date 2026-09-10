@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.11.1"
   latestRelease: "v2.0.11.1"
   latestPrerelease: "v2.0.11-rc1"
-  collectedAt: 2026-09-10T04:47:08Z
+  collectedAt: 2026-09-10T16:25:02Z
 timeline:
   created: 2019-09-30
   lastCommit: 2026-09-03
@@ -91,7 +91,7 @@ total:
   commit: 1956
 ---
 path: /home/runner/.x-repo/github.com/raspberrypi/rpi-imager
-collectedAt: 2026-09-10T04:47:15Z
+collectedAt: 2026-09-10T16:25:09Z
 loc:
   TypeScript:
     code: 86480
