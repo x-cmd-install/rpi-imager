@@ -4,7 +4,7 @@
 
 The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 
-![rpi-imager](https://repo.x-cmd.io/rpi-imager.svg)
+![rpi-imager](https://repo.x-cmd.io/rpi-imager.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,31 @@ x install rpi-imager
 - **最新版本**: `v2.0.11.1` (2026-08-17)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 20 个
-- **发布时间**: 2026-08-17T17:07:09Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [imager-v2.0.11.1.exe](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/imager-v2.0.11.1.exe) | 21.5 MiB | `other` |
+| [rpi-imager-cli_2.0.11.1-1_amd64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_amd64.deb) | 9.3 MiB | `runtime/deb/amd64` |
+| [rpi-imager-cli_2.0.11.1-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_arm64.deb) | 9.1 MiB | `runtime/deb/arm64` |
+| [rpi-imager-cli_2.0.11.1-1_armhf.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_armhf.deb) | 8.7 MiB | `runtime/deb/armhf` |
+| [rpi-imager-embedded_2.0.11.1-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-embedded_2.0.11.1-1_arm64.deb) | 15.7 MiB | `runtime/deb/arm64` |
+| [rpi-imager-v2.0.11.1.dmg](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-v2.0.11.1.dmg) | 49.5 MiB | `other` |
+| [rpi-imager_2.0.11.1-1.debian.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1.debian.tar.xz) | 39.8 KiB | `other` |
+| [rpi-imager_2.0.11.1-1.dsc](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1.dsc) | 1.1 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_amd64.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.buildinfo) | 6.6 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_amd64.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.changes) | 2.9 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_amd64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.deb) | 31.9 MiB | `runtime/deb/amd64` |
+| [rpi-imager_2.0.11.1-1_arm64.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.buildinfo) | 6.6 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_arm64.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.changes) | 2.9 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.deb) | 31.9 MiB | `runtime/deb/arm64` |
+| [rpi-imager_2.0.11.1-1_armhf.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.buildinfo) | 6.6 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_armhf.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.changes) | 2.9 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_armhf.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.deb) | 30.2 MiB | `runtime/deb/armhf` |
+| [rpi-imager_2.0.11.1-1_source.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.buildinfo) | 9.0 KiB | `other` |
+| [rpi-imager_2.0.11.1-1_source.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.changes) | 3.0 KiB | `other` |
+| [rpi-imager_2.0.11.1.orig.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1.orig.tar.xz) | 4.5 MiB | `other` |
 
 ## 流行度
 
@@ -72,4 +96,4 @@ rpi-imager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:14Z._
