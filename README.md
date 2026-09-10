@@ -12,6 +12,28 @@ The home of Raspberry Pi Imager, a user-friendly tool for creating bootable medi
 x install rpi-imager
 ```
 
+## Code insight
+
+Total: **157,252** lines of code across **320** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 86,480 | 0 | 1,107 | 27 |
+| Cpp | 34,676 | 8,179 | 6,912 | 110 |
+| Qml | 11,383 | 1,936 | 1,745 | 51 |
+| Sh | 5,632 | 1,246 | 1,007 | 39 |
+| CHeader | 5,100 | 3,673 | 1,614 | 93 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.8 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## Source
 
 - **Upstream**: <https://github.com/raspberrypi/rpi-imager>
@@ -23,6 +45,25 @@ x install rpi-imager
 - **Latest**: `v2.0.11.1` (2026-08-17)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 20
+
+## Popularity
+
+- **Stars**: 2,600 · **Forks**: 444 · **Open issues**: 1,223 · **Contributors**: 90
+
+## Totals (cumulative)
+
+- **Releases**: 40 · **Merged PRs**: 365 · **Open PRs**: 16 · **Closed issues**: 1122 · **Open issues**: 101 · **Commits**: 1956
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 18 | 5 | 11 | 8 | 43 |
+| last60d | 2026-07-12 | 2 | 23 | 7 | 25 | 11 | 88 |
+| 90d | 2026-06-12 | 4 | 25 | 9 | 37 | 16 | 110 |
+| last180d | 2026-03-14 | 8 | 46 | 10 | 78 | 43 | 279 |
+| 360d | 2025-09-15 | 18 | 131 | 13 | 274 | 68 | 829 |
+| last720d | 2024-09-20 | 21 | 218 | 13 | 427 | 78 | 1292 |
 
 ## Release assets
 
@@ -49,43 +90,20 @@ x install rpi-imager
 | [rpi-imager_2.0.11.1-1_source.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.changes) | 3.0 KiB | `other` |
 | [rpi-imager_2.0.11.1.orig.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1.orig.tar.xz) | 4.5 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 2,600 · **Forks**: 444 · **Open issues**: 1,223 · **Contributors**: 90
+Reported by **64** distros on [repology.org](https://repology.org/project/rpi-imager). **12** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 40 · **Merged PRs**: 365 · **Open PRs**: 16 · **Closed issues**: 1122 · **Open issues**: 101 · **Commits**: 1956
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 18 | 5 | 11 | 8 | 43 |
-| 90d | 2026-06-12 | 4 | 25 | 9 | 37 | 16 | 110 |
-| 360d | 2025-09-15 | 18 | 131 | 13 | 274 | 68 | 829 |
-
-## Code size
-
-Total: **157,252** lines of code across **320** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 86,480 | 0 | 1,107 | 27 |
-| Cpp | 34,676 | 8,179 | 6,912 | 110 |
-| Qml | 11,383 | 1,936 | 1,745 | 51 |
-| Sh | 5,632 | 1,246 | 1,007 | 39 |
-| CHeader | 5,100 | 3,673 | 1,614 | 93 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.8 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
+| Distro | Version | Status |
+|--------|---------|--------|
+| Ubuntu 26.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
+| Arch | `2.0.11.1` | ✅ latest |
+| Fedora rawhide | `2.0.6` | ⚠️ outdated |
+| Nix unstable | `2.0.10-1-proto1` | ⚠️ outdated |
+| Void | `1.8.5` | ⚠️ outdated |
+| Alpine edge | `2.0.11.1` | ✅ latest |
+| openSUSE Tumbleweed | `2.0.6` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -96,4 +114,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:40:56Z._
