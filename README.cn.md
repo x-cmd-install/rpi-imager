@@ -48,22 +48,22 @@ x install rpi-imager
 
 ## 流行度
 
-- **Star**: 2,601 · **Fork**: 446 · **开放 issue**: 1,224 · **贡献者**: 90
+- **Star**: 2,603 · **Fork**: 447 · **开放 issue**: 1,224 · **贡献者**: 90
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 366 · **开放 PR**: 16 · **已关闭 issue**: 1122 · **开放 issue**: 102 · **提交数**: 2003
+- **发布数**: 40 · **已合并 PR**: 366 · **开放 PR**: 17 · **已关闭 issue**: 1122 · **开放 issue**: 102 · **提交数**: 2003
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 16 | 5 | 7 | 7 | 90 |
-| last60d | 2026-07-15 | 2 | 24 | 7 | 24 | 11 | 135 |
-| 90d | 2026-06-15 | 4 | 26 | 9 | 35 | 17 | 157 |
-| last180d | 2026-03-17 | 8 | 46 | 10 | 76 | 43 | 326 |
-| 360d | 2025-09-18 | 18 | 132 | 13 | 273 | 68 | 876 |
-| last720d | 2024-09-23 | 21 | 219 | 13 | 427 | 79 | 1339 |
+| 30d | 2026-08-15 | 1 | 16 | 6 | 7 | 6 | 70 |
+| last60d | 2026-07-16 | 2 | 24 | 8 | 24 | 11 | 124 |
+| 90d | 2026-06-16 | 4 | 26 | 10 | 33 | 17 | 146 |
+| last180d | 2026-03-18 | 7 | 46 | 11 | 76 | 43 | 307 |
+| 360d | 2025-09-19 | 18 | 132 | 14 | 272 | 68 | 863 |
+| last720d | 2024-09-24 | 21 | 219 | 14 | 427 | 79 | 1339 |
 
 ## Release 资产
 
@@ -90,21 +90,6 @@ x install rpi-imager
 | [rpi-imager_2.0.11.1-1_source.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.changes) | 3.0 KiB | `other` |
 | [rpi-imager_2.0.11.1.orig.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1.orig.tar.xz) | 4.5 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/rpi-imager) 上共有 **64** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**39** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Ubuntu 26.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
-| Arch | `2.0.11.1` | ✅ latest |
-| Fedora rawhide | `2.0.6` | ⚠️ outdated |
-| Nix unstable | `2.0.10-1-proto1` | ⚠️ outdated |
-| Void | `1.8.5` | ⚠️ outdated |
-| Alpine edge | `2.0.11.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.0.6` | ⚠️ outdated |
-
 ## 改进这些数据
 
 rpi-imager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rpi-imager` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -114,4 +99,4 @@ rpi-imager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:00:09Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:13:40Z._

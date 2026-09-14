@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,601 · **Forks**: 446 · **Open issues**: 1,224 · **Contributors**: 90
+- **Stars**: 2,603 · **Forks**: 447 · **Open issues**: 1,224 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 366 · **Open PRs**: 16 · **Closed issues**: 1122 · **Open issues**: 102 · **Commits**: 2003
+- **Releases**: 40 · **Merged PRs**: 366 · **Open PRs**: 17 · **Closed issues**: 1122 · **Open issues**: 102 · **Commits**: 2003
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 16 | 5 | 7 | 7 | 90 |
-| last60d | 2026-07-15 | 2 | 24 | 7 | 24 | 11 | 135 |
-| 90d | 2026-06-15 | 4 | 26 | 9 | 35 | 17 | 157 |
-| last180d | 2026-03-17 | 8 | 46 | 10 | 76 | 43 | 326 |
-| 360d | 2025-09-18 | 18 | 132 | 13 | 273 | 68 | 876 |
-| last720d | 2024-09-23 | 21 | 219 | 13 | 427 | 79 | 1339 |
+| 30d | 2026-08-15 | 1 | 16 | 6 | 7 | 6 | 70 |
+| last60d | 2026-07-16 | 2 | 24 | 8 | 24 | 11 | 124 |
+| 90d | 2026-06-16 | 4 | 26 | 10 | 33 | 17 | 146 |
+| last180d | 2026-03-18 | 7 | 46 | 11 | 76 | 43 | 307 |
+| 360d | 2025-09-19 | 18 | 132 | 14 | 272 | 68 | 863 |
+| last720d | 2024-09-24 | 21 | 219 | 14 | 427 | 79 | 1339 |
 
 ## Release assets
 
@@ -90,21 +90,6 @@ Lowest-scoring checks:
 | [rpi-imager_2.0.11.1-1_source.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.changes) | 3.0 KiB | `other` |
 | [rpi-imager_2.0.11.1.orig.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1.orig.tar.xz) | 4.5 MiB | `other` |
 
-## Distribution status
-
-Reported by **64** distros on [repology.org](https://repology.org/project/rpi-imager). **12** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Ubuntu 26.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
-| Arch | `2.0.11.1` | ✅ latest |
-| Fedora rawhide | `2.0.6` | ⚠️ outdated |
-| Nix unstable | `2.0.10-1-proto1` | ⚠️ outdated |
-| Void | `1.8.5` | ⚠️ outdated |
-| Alpine edge | `2.0.11.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.0.6` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rpi-imager` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +99,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:00:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:13:39Z._
