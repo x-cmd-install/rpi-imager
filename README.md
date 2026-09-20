@@ -4,7 +4,7 @@
 
 The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 
-![rpi-imager](https://repo.x-cmd.io/rpi-imager.svg)
+[![x-cmd/install — rpi-imager Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rpi-imager.svg)](https://x-cmd.com/install/rpi-imager)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,607 · **Forks**: 447 · **Open issues**: 1,226 · **Contributors**: 91
+- **Stars**: 2,611 · **Forks**: 448 · **Open issues**: 1,226 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 367 · **Open PRs**: 21 · **Closed issues**: 1127 · **Open issues**: 99 · **Commits**: 2004
+- **Releases**: 40 · **Merged PRs**: 367 · **Open PRs**: 21 · **Closed issues**: 1130 · **Open issues**: 96 · **Commits**: 2004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 10 | 10 | 7 | 5 | 71 |
-| last60d | 2026-07-20 | 2 | 25 | 12 | 26 | 9 | 125 |
-| 90d | 2026-06-20 | 3 | 27 | 14 | 35 | 14 | 147 |
-| last180d | 2026-03-22 | 7 | 46 | 15 | 80 | 40 | 308 |
-| 360d | 2025-09-23 | 18 | 132 | 18 | 274 | 65 | 864 |
-| last720d | 2024-09-28 | 21 | 220 | 18 | 431 | 76 | 1321 |
+| 30d | 2026-08-21 | 0 | 10 | 9 | 7 | 4 | 57 |
+| last60d | 2026-07-22 | 2 | 25 | 12 | 23 | 8 | 121 |
+| 90d | 2026-06-22 | 3 | 27 | 14 | 35 | 13 | 142 |
+| last180d | 2026-03-24 | 7 | 44 | 15 | 82 | 38 | 287 |
+| 360d | 2025-09-25 | 18 | 131 | 18 | 277 | 61 | 849 |
+| last720d | 2024-09-30 | 21 | 219 | 18 | 431 | 73 | 1321 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:53:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:09:03Z._
