@@ -4,7 +4,7 @@
 
 The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 
-[![x-cmd/install — rpi-imager Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rpi-imager.svg)](https://x-cmd.com/install/rpi-imager)
+[![x-cmd/install — rpi-imager Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rpi-imager.svg)](https://x-cmd.com/install/rpi-imager)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,611 · **Forks**: 449 · **Open issues**: 1,228 · **Contributors**: 91
+- **Stars**: 2,613 · **Forks**: 449 · **Open issues**: 1,229 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 367 · **Open PRs**: 21 · **Closed issues**: 1131 · **Open issues**: 97 · **Commits**: 2004
+- **Releases**: 40 · **Merged PRs**: 367 · **Open PRs**: 21 · **Closed issues**: 1131 · **Open issues**: 98 · **Commits**: 2004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 10 | 9 | 5 | 6 | 57 |
-| last60d | 2026-07-24 | 2 | 25 | 12 | 23 | 9 | 121 |
-| 90d | 2026-06-24 | 3 | 27 | 14 | 35 | 14 | 142 |
-| last180d | 2026-03-26 | 7 | 44 | 15 | 82 | 38 | 287 |
-| 360d | 2025-09-27 | 18 | 131 | 18 | 277 | 62 | 849 |
-| last720d | 2024-10-02 | 21 | 217 | 18 | 431 | 74 | 1320 |
+| 30d | 2026-08-24 | 0 | 6 | 8 | 5 | 7 | 57 |
+| last60d | 2026-07-25 | 2 | 25 | 10 | 23 | 10 | 121 |
+| 90d | 2026-06-25 | 3 | 27 | 14 | 34 | 15 | 142 |
+| last180d | 2026-03-27 | 6 | 42 | 15 | 80 | 39 | 287 |
+| 360d | 2025-09-28 | 18 | 131 | 18 | 277 | 63 | 849 |
+| last720d | 2024-10-03 | 21 | 217 | 18 | 431 | 75 | 1319 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:01:13Z._
