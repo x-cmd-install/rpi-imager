@@ -14,14 +14,14 @@ x install rpi-imager
 
 ## Code insight
 
-Total: **236,713** lines of code across **544** files in the top 5 languages.
+Total: **236,998** lines of code across **544** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 87,423 | 24,257 | 18,050 | 217 |
+| Cpp | 87,674 | 24,342 | 18,064 | 217 |
 | TypeScript | 86,480 | 0 | 1,107 | 27 |
 | Qml | 27,550 | 7,273 | 5,576 | 123 |
-| CHeader | 8,105 | 5,609 | 2,304 | 133 |
+| CHeader | 8,110 | 5,615 | 2,308 | 133 |
 | Sh | 6,220 | 1,553 | 1,088 | 44 |
 
 ## OpenSSF Scorecard
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.11.1` (2026-08-17)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 - **Assets in release**: 20
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 368 · **Open PRs**: 21 · **Closed issues**: 1131 · **Open issues**: 99 · **Commits**: 2081
+- **Releases**: 40 · **Merged PRs**: 370 · **Open PRs**: 20 · **Closed issues**: 1133 · **Open issues**: 97 · **Commits**: 2085
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 6 | 8 | 5 | 8 | 134 |
-| last60d | 2026-07-26 | 2 | 26 | 10 | 23 | 11 | 198 |
-| 90d | 2026-06-26 | 3 | 27 | 14 | 34 | 16 | 219 |
-| last180d | 2026-03-28 | 6 | 43 | 15 | 80 | 40 | 364 |
-| 360d | 2025-09-29 | 18 | 131 | 18 | 277 | 64 | 926 |
-| last720d | 2024-10-04 | 21 | 218 | 18 | 430 | 76 | 1396 |
+| 30d | 2026-08-26 | 0 | 8 | 7 | 6 | 7 | 138 |
+| last60d | 2026-07-27 | 2 | 27 | 9 | 24 | 10 | 202 |
+| 90d | 2026-06-27 | 3 | 29 | 13 | 35 | 15 | 223 |
+| last180d | 2026-03-29 | 6 | 45 | 14 | 81 | 33 | 368 |
+| 360d | 2025-09-30 | 18 | 133 | 17 | 279 | 61 | 930 |
+| last720d | 2024-10-05 | 21 | 220 | 17 | 432 | 74 | 1400 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:57:03Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:05:37Z._
