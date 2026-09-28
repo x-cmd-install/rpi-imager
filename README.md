@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,616 · **Forks**: 448 · **Open issues**: 1,232 · **Contributors**: 91
+- **Stars**: 2,617 · **Forks**: 449 · **Open issues**: 1,232 · **Contributors**: 91
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 8 | 7 | 4 | 9 | 128 |
-| last60d | 2026-07-29 | 2 | 27 | 9 | 23 | 12 | 192 |
-| 90d | 2026-06-29 | 3 | 29 | 13 | 33 | 17 | 220 |
-| last180d | 2026-03-31 | 6 | 44 | 14 | 79 | 35 | 360 |
-| 360d | 2025-10-02 | 17 | 130 | 17 | 277 | 63 | 882 |
-| last720d | 2024-10-07 | 21 | 220 | 17 | 432 | 76 | 1400 |
+| 30d | 2026-08-29 | 0 | 8 | 7 | 4 | 9 | 128 |
+| last60d | 2026-07-30 | 2 | 27 | 9 | 23 | 12 | 192 |
+| 90d | 2026-06-30 | 3 | 29 | 13 | 33 | 17 | 220 |
+| last180d | 2026-04-01 | 6 | 44 | 14 | 78 | 35 | 360 |
+| 360d | 2025-10-03 | 17 | 129 | 17 | 277 | 62 | 882 |
+| last720d | 2024-10-08 | 21 | 220 | 17 | 431 | 76 | 1389 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:29:55Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:31:09Z._
