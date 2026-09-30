@@ -26,13 +26,13 @@ Total: **236,998** lines of code across **544** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.7 / 10**
+Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (3/10) — Found 1/3 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 370 · **Open PRs**: 20 · **Closed issues**: 1133 · **Open issues**: 99 · **Commits**: 2085
+- **Releases**: 40 · **Merged PRs**: 370 · **Open PRs**: 19 · **Closed issues**: 1133 · **Open issues**: 99 · **Commits**: 2085
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 8 | 7 | 3 | 9 | 128 |
-| last60d | 2026-07-31 | 2 | 27 | 9 | 23 | 12 | 192 |
-| 90d | 2026-07-01 | 3 | 29 | 13 | 33 | 17 | 220 |
-| last180d | 2026-04-02 | 6 | 43 | 14 | 78 | 35 | 360 |
-| 360d | 2025-10-04 | 16 | 129 | 17 | 277 | 62 | 882 |
-| last720d | 2024-10-09 | 21 | 220 | 17 | 429 | 76 | 1389 |
+| 30d | 2026-08-31 | 0 | 8 | 6 | 3 | 9 | 128 |
+| last60d | 2026-08-01 | 2 | 27 | 8 | 23 | 12 | 192 |
+| 90d | 2026-07-02 | 3 | 29 | 12 | 33 | 17 | 220 |
+| last180d | 2026-04-03 | 6 | 43 | 12 | 78 | 35 | 360 |
+| 360d | 2025-10-05 | 16 | 129 | 16 | 276 | 62 | 882 |
+| last720d | 2024-10-10 | 21 | 220 | 16 | 429 | 76 | 1389 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:00:20Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:42:29Z._
