@@ -14,14 +14,14 @@ x install rpi-imager
 
 ## Code insight
 
-Total: **238,060** lines of code across **548** files in the top 5 languages.
+Total: **240,397** lines of code across **554** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 88,603 | 24,425 | 18,205 | 220 |
+| Cpp | 90,268 | 24,327 | 18,546 | 223 |
 | TypeScript | 86,480 | 0 | 1,107 | 27 |
-| Qml | 27,618 | 7,270 | 5,592 | 123 |
-| CHeader | 8,148 | 5,644 | 2,327 | 134 |
+| Qml | 28,042 | 7,310 | 5,647 | 124 |
+| CHeader | 8,275 | 5,718 | 2,368 | 136 |
 | Sh | 6,228 | 1,556 | 1,088 | 44 |
 
 ## OpenSSF Scorecard
@@ -42,9 +42,9 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.0.11.1` (2026-08-17)
-- **Last commit**: 2026-10-07
-- **Assets in release**: 20
+- **Latest**: `v2.0.12` (2026-10-08)
+- **Last commit**: 2026-10-08
+- **Assets in release**: 27
 
 ## Popularity
 
@@ -52,43 +52,50 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 384 · **Open PRs**: 16 · **Closed issues**: 1135 · **Open issues**: 99 · **Commits**: 2111
+- **Releases**: 41 · **Merged PRs**: 388 · **Open PRs**: 13 · **Closed issues**: 1136 · **Open issues**: 98 · **Commits**: 2129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 18 | 6 | 3 | 8 | 151 |
-| last60d | 2026-08-09 | 2 | 37 | 7 | 18 | 13 | 207 |
-| 90d | 2026-07-10 | 2 | 42 | 9 | 32 | 15 | 242 |
-| last180d | 2026-04-11 | 5 | 53 | 10 | 78 | 30 | 359 |
-| 360d | 2025-10-13 | 15 | 139 | 13 | 272 | 61 | 877 |
-| last720d | 2024-10-18 | 21 | 232 | 13 | 428 | 76 | 1415 |
+| 30d | 2026-09-09 | 1 | 22 | 3 | 4 | 7 | 169 |
+| last60d | 2026-08-10 | 3 | 41 | 4 | 19 | 12 | 225 |
+| 90d | 2026-07-11 | 3 | 46 | 6 | 33 | 14 | 260 |
+| last180d | 2026-04-12 | 6 | 57 | 7 | 79 | 29 | 377 |
+| 360d | 2025-10-14 | 16 | 141 | 10 | 273 | 59 | 895 |
+| last720d | 2024-10-19 | 22 | 236 | 10 | 429 | 75 | 1433 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [imager-v2.0.11.1.exe](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/imager-v2.0.11.1.exe) | 21.5 MiB | `other` |
-| [rpi-imager-cli_2.0.11.1-1_amd64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_amd64.deb) | 9.3 MiB | `runtime/deb/amd64` |
-| [rpi-imager-cli_2.0.11.1-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_arm64.deb) | 9.1 MiB | `runtime/deb/arm64` |
-| [rpi-imager-cli_2.0.11.1-1_armhf.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-cli_2.0.11.1-1_armhf.deb) | 8.7 MiB | `runtime/deb/armhf` |
-| [rpi-imager-embedded_2.0.11.1-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-embedded_2.0.11.1-1_arm64.deb) | 15.7 MiB | `runtime/deb/arm64` |
-| [rpi-imager-v2.0.11.1.dmg](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager-v2.0.11.1.dmg) | 49.5 MiB | `other` |
-| [rpi-imager_2.0.11.1-1.debian.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1.debian.tar.xz) | 39.8 KiB | `other` |
-| [rpi-imager_2.0.11.1-1.dsc](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1.dsc) | 1.1 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_amd64.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.buildinfo) | 6.6 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_amd64.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.changes) | 2.9 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_amd64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_amd64.deb) | 31.9 MiB | `runtime/deb/amd64` |
-| [rpi-imager_2.0.11.1-1_arm64.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.buildinfo) | 6.6 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_arm64.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.changes) | 2.9 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_arm64.deb) | 31.9 MiB | `runtime/deb/arm64` |
-| [rpi-imager_2.0.11.1-1_armhf.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.buildinfo) | 6.6 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_armhf.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.changes) | 2.9 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_armhf.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_armhf.deb) | 30.2 MiB | `runtime/deb/armhf` |
-| [rpi-imager_2.0.11.1-1_source.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.buildinfo) | 9.0 KiB | `other` |
-| [rpi-imager_2.0.11.1-1_source.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1-1_source.changes) | 3.0 KiB | `other` |
-| [rpi-imager_2.0.11.1.orig.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.11.1/rpi-imager_2.0.11.1.orig.tar.xz) | 4.5 MiB | `other` |
+| [imager-v2.0.12.exe](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/imager-v2.0.12.exe) | 21.3 MiB | `other` |
+| [Raspberry_Pi_Imager-v2.0.12-cli-aarch64.AppImage](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/Raspberry_Pi_Imager-v2.0.12-cli-aarch64.AppImage) | 9.8 MiB | `other` |
+| [Raspberry_Pi_Imager-v2.0.12-cli-armhf.AppImage](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/Raspberry_Pi_Imager-v2.0.12-cli-armhf.AppImage) | 9.3 MiB | `other` |
+| [Raspberry_Pi_Imager-v2.0.12-cli-x86_64.AppImage](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/Raspberry_Pi_Imager-v2.0.12-cli-x86_64.AppImage) | 10.0 MiB | `other` |
+| [Raspberry_Pi_Imager-v2.0.12-desktop-aarch64.AppImage](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/Raspberry_Pi_Imager-v2.0.12-desktop-aarch64.AppImage) | 33.7 MiB | `other` |
+| [Raspberry_Pi_Imager-v2.0.12-desktop-armhf.AppImage](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/Raspberry_Pi_Imager-v2.0.12-desktop-armhf.AppImage) | 31.8 MiB | `other` |
+| [Raspberry_Pi_Imager-v2.0.12-desktop-x86_64.AppImage](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/Raspberry_Pi_Imager-v2.0.12-desktop-x86_64.AppImage) | 33.5 MiB | `other` |
+| [rpi-imager-cli_2.0.12-1_amd64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager-cli_2.0.12-1_amd64.deb) | 9.4 MiB | `runtime/deb/amd64` |
+| [rpi-imager-cli_2.0.12-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager-cli_2.0.12-1_arm64.deb) | 9.2 MiB | `runtime/deb/arm64` |
+| [rpi-imager-cli_2.0.12-1_armhf.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager-cli_2.0.12-1_armhf.deb) | 8.8 MiB | `runtime/deb/armhf` |
+| [rpi-imager-embedded_2.0.12-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager-embedded_2.0.12-1_arm64.deb) | 15.9 MiB | `runtime/deb/arm64` |
+| [rpi-imager-v2.0.12.dmg](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager-v2.0.12.dmg) | 34.9 MiB | `other` |
+| [rpi-imager_2.0.12-1.debian.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1.debian.tar.xz) | 44.1 KiB | `other` |
+| [rpi-imager_2.0.12-1.dsc](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1.dsc) | 1.1 KiB | `other` |
+| [rpi-imager_2.0.12-1_amd64.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_amd64.buildinfo) | 6.6 KiB | `other` |
+| [rpi-imager_2.0.12-1_amd64.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_amd64.changes) | 8.5 KiB | `other` |
+| [rpi-imager_2.0.12-1_amd64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_amd64.deb) | 32.7 MiB | `runtime/deb/amd64` |
+| [rpi-imager_2.0.12-1_arm64.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_arm64.buildinfo) | 6.6 KiB | `other` |
+| [rpi-imager_2.0.12-1_arm64.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_arm64.changes) | 8.5 KiB | `other` |
+| [rpi-imager_2.0.12-1_arm64.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_arm64.deb) | 32.8 MiB | `runtime/deb/arm64` |
+| [rpi-imager_2.0.12-1_armhf.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_armhf.buildinfo) | 6.6 KiB | `other` |
+| [rpi-imager_2.0.12-1_armhf.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_armhf.changes) | 8.5 KiB | `other` |
+| [rpi-imager_2.0.12-1_armhf.deb](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_armhf.deb) | 31.0 MiB | `runtime/deb/armhf` |
+| [rpi-imager_2.0.12-1_source.buildinfo](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_source.buildinfo) | 9.0 KiB | `other` |
+| [rpi-imager_2.0.12-1_source.changes](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12-1_source.changes) | 8.6 KiB | `other` |
+| [rpi-imager_2.0.12.orig.tar.xz](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/rpi-imager_2.0.12.orig.tar.xz) | 5.4 MiB | `other` |
+| [SHA256SUMS](https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.12/SHA256SUMS) | 2.4 KiB | `other` |
 
 ## Improve this data
 
@@ -99,4 +106,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:17:15Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:18:30Z._
