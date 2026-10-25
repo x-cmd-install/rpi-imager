@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 22 | 5 | 4 | 7 | 50 |
-| last60d | 2026-08-25 | 1 | 33 | 5 | 11 | 13 | 192 |
-| 90d | 2026-07-26 | 3 | 53 | 6 | 29 | 16 | 257 |
-| last180d | 2026-04-27 | 6 | 60 | 8 | 74 | 27 | 372 |
-| 360d | 2025-10-29 | 15 | 130 | 11 | 269 | 61 | 846 |
-| last720d | 2024-11-03 | 22 | 243 | 11 | 430 | 77 | 1442 |
+| 30d | 2026-09-25 | 1 | 22 | 5 | 4 | 6 | 44 |
+| last60d | 2026-08-26 | 1 | 33 | 5 | 11 | 13 | 191 |
+| 90d | 2026-07-27 | 3 | 52 | 6 | 29 | 16 | 254 |
+| last180d | 2026-04-28 | 6 | 60 | 8 | 74 | 26 | 351 |
+| 360d | 2025-10-30 | 15 | 130 | 11 | 268 | 61 | 826 |
+| last720d | 2024-11-04 | 22 | 243 | 11 | 430 | 77 | 1442 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:43:36Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:49:11Z._
