@@ -14,14 +14,14 @@ x install rpi-imager
 
 ## Code insight
 
-Total: **241,308** lines of code across **557** files in the top 5 languages.
+Total: **241,397** lines of code across **557** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 90,810 | 24,364 | 18,639 | 225 |
+| Cpp | 90,903 | 24,367 | 18,655 | 225 |
 | TypeScript | 86,593 | 0 | 1,176 | 27 |
 | Qml | 28,226 | 7,319 | 5,698 | 124 |
-| CHeader | 8,315 | 5,742 | 2,384 | 137 |
+| CHeader | 8,308 | 5,740 | 2,384 | 137 |
 | Sh | 6,228 | 1,556 | 1,088 | 44 |
 
 ## OpenSSF Scorecard
@@ -30,8 +30,8 @@ Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/14 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.12` (2026-10-08)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-27
 - **Assets in release**: 27
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 395 · **Open PRs**: 12 · **Closed issues**: 1145 · **Open issues**: 96 · **Commits**: 2141
+- **Releases**: 41 · **Merged PRs**: 396 · **Open PRs**: 11 · **Closed issues**: 1145 · **Open issues**: 96 · **Commits**: 2142
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 22 | 5 | 4 | 5 | 44 |
-| last60d | 2026-08-28 | 1 | 33 | 5 | 9 | 13 | 191 |
-| 90d | 2026-07-29 | 3 | 52 | 6 | 28 | 16 | 254 |
-| last180d | 2026-04-30 | 6 | 60 | 8 | 74 | 23 | 351 |
-| 360d | 2025-11-01 | 15 | 130 | 11 | 269 | 59 | 826 |
-| last720d | 2024-11-06 | 22 | 243 | 11 | 431 | 75 | 1441 |
+| 30d | 2026-09-28 | 1 | 23 | 4 | 4 | 5 | 45 |
+| last60d | 2026-08-29 | 1 | 34 | 4 | 9 | 13 | 192 |
+| 90d | 2026-07-30 | 3 | 53 | 5 | 28 | 16 | 255 |
+| last180d | 2026-05-01 | 6 | 61 | 7 | 71 | 23 | 352 |
+| 360d | 2025-11-02 | 15 | 131 | 10 | 268 | 59 | 827 |
+| last720d | 2024-11-07 | 22 | 244 | 10 | 431 | 75 | 1442 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:22:21Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:51:44Z._
