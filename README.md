@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,647 · **Forks**: 459 · **Open issues**: 1,243 · **Contributors**: 93
+- **Stars**: 2,645 · **Forks**: 461 · **Open issues**: 1,243 · **Contributors**: 93
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 21 | 1 | 3 | 7 | 46 |
-| last60d | 2026-08-31 | 1 | 35 | 4 | 9 | 14 | 193 |
-| 90d | 2026-08-01 | 3 | 54 | 5 | 29 | 17 | 256 |
-| last180d | 2026-05-03 | 6 | 62 | 7 | 71 | 24 | 353 |
-| 360d | 2025-11-04 | 15 | 132 | 10 | 269 | 60 | 828 |
-| last720d | 2024-11-09 | 22 | 244 | 10 | 432 | 76 | 1443 |
+| 30d | 2026-10-01 | 1 | 21 | 1 | 3 | 6 | 46 |
+| last60d | 2026-09-01 | 1 | 35 | 4 | 9 | 14 | 193 |
+| 90d | 2026-08-02 | 3 | 54 | 5 | 28 | 17 | 256 |
+| last180d | 2026-05-04 | 6 | 62 | 7 | 71 | 24 | 353 |
+| 360d | 2025-11-05 | 15 | 132 | 10 | 269 | 60 | 828 |
+| last720d | 2024-11-10 | 22 | 244 | 10 | 431 | 76 | 1443 |
 
 ## Release assets
 
@@ -99,7 +99,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **63** distros on [repology.org](https://repology.org/project/rpi-imager). **8** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
+Reported by **63** distros on [repology.org](https://repology.org/project/rpi-imager). **9** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -107,7 +107,7 @@ Reported by **63** distros on [repology.org](https://repology.org/project/rpi-im
 | Ubuntu 24.04 LTS | `1.8.5+noembed` | ⚠️ outdated |
 | Arch | `2.0.12` | ✅ latest |
 | Fedora rawhide | `2.0.6` | ⚠️ outdated |
-| Nix unstable | `2.0.11.1` | ⚠️ outdated |
+| Nix unstable | `2.0.12` | ✅ latest |
 | Void | `1.8.5` | ⚠️ outdated |
 | Alpine edge | `2.0.11.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.0.6` | ⚠️ outdated |
@@ -121,4 +121,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:55:47Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:40:55Z._
