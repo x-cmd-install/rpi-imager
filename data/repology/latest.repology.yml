@@ -1,14 +1,15 @@
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.6.2
+- repo: nix_stable_24_11
+  srcname: rpi-imager
+  visiblename: rpi-imager
+  version: 1.8.5
   origversion: null
-  status: legacy
+  status: outdated
+  summary: Raspberry Pi Imaging Utility
+  maintainers:
+    - nixpkgs@ymarkus.dev
+    - anthony@roussel.dev
   licenses:
-    - cURL license
-  categories:
-    - Tools
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: rpi-imager
@@ -356,18 +357,6 @@
     - anthony@roussel.dev
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: rpi-imager
-  visiblename: rpi-imager
-  version: 1.8.5
-  origversion: null
-  status: outdated
-  summary: Raspberry Pi Imaging Utility
-  maintainers:
-    - nixpkgs@ymarkus.dev
-    - anthony@roussel.dev
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: rpi-imager
   visiblename: rpi-imager
@@ -421,6 +410,17 @@
   binname: raspberry-pi-imager
   visiblename: Raspberry Pi imager
   version: 1.6.1
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.6.2
   origversion: null
   status: legacy
   licenses:
