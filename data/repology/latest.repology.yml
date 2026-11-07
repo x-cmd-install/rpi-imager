@@ -1,15 +1,304 @@
-- repo: nix_stable_24_11
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.7.1
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.7.2
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.7.4
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.8.4
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.8.5
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: "1.9"
+  origversion: null
+  status: outdated
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 1.9.0
+  origversion: 1.9.0-3
+  status: outdated
+  summary: Graphical user-interface to write disk images and format SD cards
+  maintainers:
+    - uro@urogaming.co.uk
+  licenses:
+    - Apache-2.0
+  categories:
+    - File tools
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 2.0.9
+  origversion: 2.0.9-1
+  status: outdated
+  summary: Graphical user-interface to write disk images and format SD cards
+  maintainers:
+    - uro@urogaming.co.uk
+  licenses:
+    - Apache-2.0
+  categories:
+    - File tools
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 2.0.9
+  origversion: 2.0.9-1
+  status: outdated
+  summary: Graphical user-interface to write disk images and format SD cards
+  maintainers:
+    - uro@urogaming.co.uk
+  licenses:
+    - Apache-2.0
+  categories:
+    - File tools
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
   srcname: rpi-imager
   visiblename: rpi-imager
+  version: 1.7.3
+  origversion: 1.7.3-bp155.1.9
+  status: outdated
+  summary: Raspberry Pi Imaging Utility
+  licenses:
+    - Apache-2.0
+  categories:
+    - Hardware/Other
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: rpi-imager
+  visiblename: rpi-imager
+  version: 1.7.5
+  origversion: 1.7.5-bp156.1.10
+  status: outdated
+  summary: Raspberry Pi Imaging Utility
+  licenses:
+    - Apache-2.0
+  categories:
+    - Hardware/Other
+- repo: opensuse_leap_15_6
+  subrepo: updates/backports
+  srcname: rpi-imager
+  visiblename: rpi-imager
+  version: 1.7.5
+  origversion: 1.7.5-bp156.2.4.1
+  status: outdated
+  summary: Raspberry Pi Imaging Utility
+  licenses:
+    - Apache-2.0
+  categories:
+    - Hardware/Other
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+    - rpi-imager-debuginfo
+    - rpi-imager-debugsource
+  visiblename: rpi-imager
+  version: 2.0.6
+  origversion: 2.0.6-1.6
+  status: outdated
+  summary: Raspberry Pi Imaging Utility
+  licenses:
+    - Apache-2.0
+  categories:
+    - Hardware/Other
+- repo: pacstall
+  srcname: rpi-imager-app
+  binname: rpi-imager-app
+  visiblename: rpi-imager-app
+  version: 1.9.4
+  origversion: 1.9.4-1
+  status: outdated
+  summary: The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices
+  maintainers:
+    - jimedrand@disroot.org
+- repo: parabola
+  subrepo: extra
+  srcname: rpi-imager
+  binname: rpi-imager
+  visiblename: rpi-imager
+  version: 2.0.12
+  origversion: 2.0.12-1
+  status: newest
+  summary: Raspberry Pi Imaging Utility
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: extras
+  binname: raspberry-pi-imager
+  visiblename: raspberry-pi-imager
+  version: 2.0.12
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: slackbuilds
+  srcname: multimedia/rpi-imager
+  visiblename: multimedia/rpi-imager
   version: 1.8.5
   origversion: null
   status: outdated
+  maintainers:
+    - j@lngn.net
+  categories:
+    - multimedia
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 1.7.2+noembed
+  origversion: 1.7.2+noembed-0ubuntu1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/admin
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 1.8.5+noembed
+  origversion: 1.8.5+noembed-0ubuntu5
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/admin
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 1.8.5+noembed
+  origversion: 1.8.5+noembed-0ubuntu5
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/admin
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.7.5
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.8.1
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: 1.7.4.1
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
+- repo: nix_unstable
+  srcname: rpi-imager
+  visiblename: rpi-imager
+  version: 2.0.12
+  origversion: null
+  status: newest
   summary: Raspberry Pi Imaging Utility
   maintainers:
-    - nixpkgs@ymarkus.dev
     - anthony@roussel.dev
+    - agustin@mista.me
   licenses:
     - Apache-2.0
+- repo: npackd_stable
+  srcname: raspberry-pi-imager
+  binname: raspberry-pi-imager
+  visiblename: Raspberry Pi imager
+  version: "1.7"
+  origversion: null
+  status: legacy
+  licenses:
+    - cURL license
+  categories:
+    - Tools
 - repo: alpine_edge
   subrepo: testing
   srcname: rpi-imager
@@ -274,23 +563,23 @@
   srcname: rpi-imager
   binname: rpi-imager
   visiblename: rpi-imager
-  version: 1.7.5
-  origversion: 1.7.5-1
+  version: 2.0.11.1
+  origversion: 2.0.11.1-1
   status: outdated
   summary: Raspberry Pi Imaging Utility
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: rpi-imager
   binname: rpi-imager
   visiblename: rpi-imager
-  version: 1.7.5
-  origversion: 1.7.5-1
-  status: outdated
+  version: 2.0.12
+  origversion: 2.0.12-1
+  status: newest
   summary: Raspberry Pi Imaging Utility
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: rpi-imager
@@ -357,6 +646,18 @@
     - anthony@roussel.dev
   licenses:
     - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: rpi-imager
+  visiblename: rpi-imager
+  version: 1.8.5
+  origversion: null
+  status: outdated
+  summary: Raspberry Pi Imaging Utility
+  maintainers:
+    - nixpkgs@ymarkus.dev
+    - anthony@roussel.dev
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: rpi-imager
   visiblename: rpi-imager
@@ -393,18 +694,6 @@
     - agustin@mista.me
   licenses:
     - Apache-2.0
-- repo: nix_unstable
-  srcname: rpi-imager
-  visiblename: rpi-imager
-  version: 2.0.12
-  origversion: null
-  status: newest
-  summary: Raspberry Pi Imaging Utility
-  maintainers:
-    - anthony@roussel.dev
-    - agustin@mista.me
-  licenses:
-    - Apache-2.0
 - repo: npackd_stable
   srcname: raspberry-pi-imager
   binname: raspberry-pi-imager
@@ -427,295 +716,6 @@
     - cURL license
   categories:
     - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: "1.7"
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.7.1
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.7.2
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.7.4
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.7.4.1
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.7.5
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.8.1
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.8.4
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: 1.8.5
-  origversion: null
-  status: legacy
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: npackd_stable
-  srcname: raspberry-pi-imager
-  binname: raspberry-pi-imager
-  visiblename: Raspberry Pi imager
-  version: "1.9"
-  origversion: null
-  status: outdated
-  licenses:
-    - cURL license
-  categories:
-    - Tools
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-  visiblename: rpi-imager
-  version: 1.9.0
-  origversion: 1.9.0-3
-  status: outdated
-  summary: Graphical user-interface to write disk images and format SD cards
-  maintainers:
-    - uro@urogaming.co.uk
-  licenses:
-    - Apache-2.0
-  categories:
-    - File tools
-- repo: openmandriva_rolling
-  subrepo: main/release
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-  visiblename: rpi-imager
-  version: 2.0.9
-  origversion: 2.0.9-1
-  status: outdated
-  summary: Graphical user-interface to write disk images and format SD cards
-  maintainers:
-    - uro@urogaming.co.uk
-  licenses:
-    - Apache-2.0
-  categories:
-    - File tools
-- repo: openmandriva_cooker
-  subrepo: main/release
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-  visiblename: rpi-imager
-  version: 2.0.9
-  origversion: 2.0.9-1
-  status: outdated
-  summary: Graphical user-interface to write disk images and format SD cards
-  maintainers:
-    - uro@urogaming.co.uk
-  licenses:
-    - Apache-2.0
-  categories:
-    - File tools
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: rpi-imager
-  visiblename: rpi-imager
-  version: 1.7.3
-  origversion: 1.7.3-bp155.1.9
-  status: outdated
-  summary: Raspberry Pi Imaging Utility
-  licenses:
-    - Apache-2.0
-  categories:
-    - Hardware/Other
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: rpi-imager
-  visiblename: rpi-imager
-  version: 1.7.5
-  origversion: 1.7.5-bp156.1.10
-  status: outdated
-  summary: Raspberry Pi Imaging Utility
-  licenses:
-    - Apache-2.0
-  categories:
-    - Hardware/Other
-- repo: opensuse_leap_15_6
-  subrepo: updates/backports
-  srcname: rpi-imager
-  visiblename: rpi-imager
-  version: 1.7.5
-  origversion: 1.7.5-bp156.2.4.1
-  status: outdated
-  summary: Raspberry Pi Imaging Utility
-  licenses:
-    - Apache-2.0
-  categories:
-    - Hardware/Other
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-    - rpi-imager-debuginfo
-    - rpi-imager-debugsource
-  visiblename: rpi-imager
-  version: 2.0.6
-  origversion: 2.0.6-1.6
-  status: outdated
-  summary: Raspberry Pi Imaging Utility
-  licenses:
-    - Apache-2.0
-  categories:
-    - Hardware/Other
-- repo: pacstall
-  srcname: rpi-imager-app
-  binname: rpi-imager-app
-  visiblename: rpi-imager-app
-  version: 1.9.4
-  origversion: 1.9.4-1
-  status: outdated
-  summary: The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices
-  maintainers:
-    - jimedrand@disroot.org
-- repo: parabola
-  subrepo: extra
-  srcname: rpi-imager
-  binname: rpi-imager
-  visiblename: rpi-imager
-  version: 2.0.12
-  origversion: 2.0.12-1
-  status: newest
-  summary: Raspberry Pi Imaging Utility
-  licenses:
-    - Apache-2.0
-- repo: scoop
-  subrepo: extras
-  binname: raspberry-pi-imager
-  visiblename: raspberry-pi-imager
-  version: 2.0.12
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: slackbuilds
-  srcname: multimedia/rpi-imager
-  visiblename: multimedia/rpi-imager
-  version: 1.8.5
-  origversion: null
-  status: outdated
-  maintainers:
-    - j@lngn.net
-  categories:
-    - multimedia
-- repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-  visiblename: rpi-imager
-  version: 1.7.2+noembed
-  origversion: 1.7.2+noembed-0ubuntu1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/admin
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-  visiblename: rpi-imager
-  version: 1.8.5+noembed
-  origversion: 1.8.5+noembed-0ubuntu5
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/admin
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: rpi-imager
-  binnames:
-    - rpi-imager
-  visiblename: rpi-imager
-  version: 1.8.5+noembed
-  origversion: 1.8.5+noembed-0ubuntu5
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/admin
 - repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: rpi-imager
@@ -744,6 +744,19 @@
     - universe/admin
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: rpi-imager
+  binnames:
+    - rpi-imager
+  visiblename: rpi-imager
+  version: 1.8.5+noembed
+  origversion: 1.8.5+noembed-0ubuntu6
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/admin
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: rpi-imager
   binnames:
     - rpi-imager
