@@ -26,13 +26,13 @@ x install rpi-imager
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.1 / 10**
+总评分: **3.3 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install rpi-imager
 
 ## 流行度
 
-- **Star**: 2,667 · **Fork**: 461 · **开放 issue**: 1,249 · **贡献者**: 94
+- **Star**: 2,670 · **Fork**: 462 · **开放 issue**: 1,249 · **贡献者**: 94
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 398 · **开放 PR**: 11 · **已关闭 issue**: 1146 · **开放 issue**: 103 · **提交数**: 2145
+- **发布数**: 41 · **已合并 PR**: 399 · **开放 PR**: 11 · **已关闭 issue**: 1147 · **开放 issue**: 102 · **提交数**: 2145
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 8 | 1 | 1 | 9 | 8 |
-| last60d | 2026-09-18 | 1 | 28 | 4 | 7 | 17 | 85 |
-| 90d | 2026-08-19 | 1 | 41 | 5 | 15 | 21 | 210 |
-| last180d | 2026-05-21 | 5 | 59 | 7 | 57 | 29 | 344 |
-| 360d | 2025-11-22 | 15 | 133 | 10 | 262 | 66 | 728 |
-| last720d | 2024-11-27 | 22 | 242 | 10 | 426 | 82 | 1439 |
+| 30d | 2026-10-20 | 0 | 6 | 1 | 2 | 7 | 8 |
+| last60d | 2026-09-20 | 1 | 29 | 4 | 8 | 16 | 85 |
+| 90d | 2026-08-21 | 1 | 42 | 5 | 16 | 19 | 210 |
+| last180d | 2026-05-23 | 5 | 60 | 7 | 58 | 28 | 344 |
+| 360d | 2025-11-24 | 15 | 133 | 10 | 254 | 64 | 728 |
+| last720d | 2024-11-29 | 22 | 243 | 10 | 427 | 81 | 1439 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ rpi-imager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:33:42Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:53:58Z._

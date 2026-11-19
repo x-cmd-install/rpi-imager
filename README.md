@@ -26,13 +26,13 @@ Total: **241,572** lines of code across **557** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.1 / 10**
+Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,667 · **Forks**: 461 · **Open issues**: 1,249 · **Contributors**: 94
+- **Stars**: 2,670 · **Forks**: 462 · **Open issues**: 1,249 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 398 · **Open PRs**: 11 · **Closed issues**: 1146 · **Open issues**: 103 · **Commits**: 2145
+- **Releases**: 41 · **Merged PRs**: 399 · **Open PRs**: 11 · **Closed issues**: 1147 · **Open issues**: 102 · **Commits**: 2145
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 8 | 1 | 1 | 9 | 8 |
-| last60d | 2026-09-18 | 1 | 28 | 4 | 7 | 17 | 85 |
-| 90d | 2026-08-19 | 1 | 41 | 5 | 15 | 21 | 210 |
-| last180d | 2026-05-21 | 5 | 59 | 7 | 57 | 29 | 344 |
-| 360d | 2025-11-22 | 15 | 133 | 10 | 262 | 66 | 728 |
-| last720d | 2024-11-27 | 22 | 242 | 10 | 426 | 82 | 1439 |
+| 30d | 2026-10-20 | 0 | 6 | 1 | 2 | 7 | 8 |
+| last60d | 2026-09-20 | 1 | 29 | 4 | 8 | 16 | 85 |
+| 90d | 2026-08-21 | 1 | 42 | 5 | 16 | 19 | 210 |
+| last180d | 2026-05-23 | 5 | 60 | 7 | 58 | 28 | 344 |
+| 360d | 2025-11-24 | 15 | 133 | 10 | 254 | 64 | 728 |
+| last720d | 2024-11-29 | 22 | 243 | 10 | 427 | 81 | 1439 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:33:41Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:53:58Z._
