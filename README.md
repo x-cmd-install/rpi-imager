@@ -14,7 +14,7 @@ x install rpi-imager
 
 ## Code insight
 
-Total: **241,572** lines of code across **557** files in the top 5 languages.
+Total: **241,578** lines of code across **557** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.12` (2026-10-08)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-25
 - **Assets in release**: 27
 
 ## Popularity
 
-- **Stars**: 2,678 · **Forks**: 468 · **Open issues**: 1,250 · **Contributors**: 94
+- **Stars**: 2,679 · **Forks**: 468 · **Open issues**: 1,251 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 400 · **Open PRs**: 12 · **Closed issues**: 1149 · **Open issues**: 101 · **Commits**: 2145
+- **Releases**: 41 · **Merged PRs**: 400 · **Open PRs**: 12 · **Closed issues**: 1149 · **Open issues**: 102 · **Commits**: 2146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 4 | 2 | 2 | 8 | 2 |
-| last60d | 2026-09-26 | 1 | 27 | 5 | 6 | 13 | 54 |
-| 90d | 2026-08-27 | 1 | 38 | 5 | 13 | 20 | 196 |
-| last180d | 2026-05-29 | 5 | 60 | 8 | 57 | 28 | 338 |
-| 360d | 2025-11-30 | 14 | 131 | 10 | 221 | 60 | 673 |
-| last720d | 2024-12-05 | 22 | 241 | 11 | 425 | 81 | 1432 |
+| 30d | 2026-10-27 | 0 | 4 | 2 | 2 | 9 | 0 |
+| last60d | 2026-09-27 | 1 | 27 | 5 | 6 | 14 | 0 |
+| 90d | 2026-08-28 | 1 | 38 | 5 | 12 | 21 | 0 |
+| last180d | 2026-05-30 | 5 | 60 | 8 | 57 | 29 | 0 |
+| 360d | 2025-12-01 | 14 | 130 | 10 | 219 | 61 | 0 |
+| last720d | 2024-12-06 | 22 | 239 | 11 | 425 | 82 | 1433 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for rpi-imager lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:44:32Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:27:18Z._
